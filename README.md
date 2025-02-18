@@ -1,4 +1,4 @@
-# LakshitaMarkanday
+# Lakshita Markanday
 
 Hi there! 👋 I'm excited to have you here. Let me introduce myself:
 
