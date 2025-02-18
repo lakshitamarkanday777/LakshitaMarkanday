@@ -23,6 +23,7 @@ Version Control: Git, GitHub
 Here are a few notable projects I've worked on:
 
 **Operational and Weather Data Analysis for Substations:** Developed predictive models to analyze weather impact on substations.
+
 **Hydrogen Vehicle Game:** Collaborated with Edmonton Global where the team developed a car game focusing on the 5000 Vehicle challenge by Edmonton global.
 Connect with Me
 
